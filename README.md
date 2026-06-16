@@ -5,7 +5,7 @@ Questo repository contiene il materiale utilizzato per l'analisi del dataset **"
 ## Contenuto del repository
 
 * `presentazione.pptx`: presentazione PowerPoint che illustra i risultati dell'analisi e i principali insight emersi dal dataset.
-* `script.py`: script Python utilizzato per l'elaborazione dei dati e la generazione dei grafici inclusi nella presentazione.
+* `AI_jobs_UNIMI.py`: script Python utilizzato per l'elaborazione dei dati e la generazione dei grafici inclusi nella presentazione.
 
 ## Dataset
 
